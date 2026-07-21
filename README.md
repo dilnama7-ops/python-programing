@@ -6,7 +6,7 @@ It include
 
 * Introducing to python
 * Variable in python
-*Data type
-*Operators
-*Collections
-*etc
+* Data type
+* Operators
+* Collections
+* etc
